@@ -1,0 +1,1 @@
+Created an IAM user and gave rights to s3 bucket
